@@ -1,0 +1,14 @@
+C:\Users\Rajesh Venteru\OneDrive\Documents\Regular Experssions\Regular Experssions\bin\Debug\net8.0\Regular Experssions.exe
+C:\Users\Rajesh Venteru\OneDrive\Documents\Regular Experssions\Regular Experssions\bin\Debug\net8.0\Regular Experssions.deps.json
+C:\Users\Rajesh Venteru\OneDrive\Documents\Regular Experssions\Regular Experssions\bin\Debug\net8.0\Regular Experssions.runtimeconfig.json
+C:\Users\Rajesh Venteru\OneDrive\Documents\Regular Experssions\Regular Experssions\bin\Debug\net8.0\Regular Experssions.dll
+C:\Users\Rajesh Venteru\OneDrive\Documents\Regular Experssions\Regular Experssions\bin\Debug\net8.0\Regular Experssions.pdb
+C:\Users\Rajesh Venteru\OneDrive\Documents\Regular Experssions\Regular Experssions\obj\Debug\net8.0\Regular Experssions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rajesh Venteru\OneDrive\Documents\Regular Experssions\Regular Experssions\obj\Debug\net8.0\Regular Experssions.AssemblyInfoInputs.cache
+C:\Users\Rajesh Venteru\OneDrive\Documents\Regular Experssions\Regular Experssions\obj\Debug\net8.0\Regular Experssions.AssemblyInfo.cs
+C:\Users\Rajesh Venteru\OneDrive\Documents\Regular Experssions\Regular Experssions\obj\Debug\net8.0\Regular Experssions.csproj.CoreCompileInputs.cache
+C:\Users\Rajesh Venteru\OneDrive\Documents\Regular Experssions\Regular Experssions\obj\Debug\net8.0\Regular Experssions.dll
+C:\Users\Rajesh Venteru\OneDrive\Documents\Regular Experssions\Regular Experssions\obj\Debug\net8.0\refint\Regular Experssions.dll
+C:\Users\Rajesh Venteru\OneDrive\Documents\Regular Experssions\Regular Experssions\obj\Debug\net8.0\Regular Experssions.pdb
+C:\Users\Rajesh Venteru\OneDrive\Documents\Regular Experssions\Regular Experssions\obj\Debug\net8.0\Regular Experssions.genruntimeconfig.cache
+C:\Users\Rajesh Venteru\OneDrive\Documents\Regular Experssions\Regular Experssions\obj\Debug\net8.0\ref\Regular Experssions.dll
